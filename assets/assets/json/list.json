@@ -1,0 +1,612 @@
+[
+    {
+        "name":"Typing.com",
+        "category": "Productivity",
+        "url":"https://typing.com"
+    },
+    {
+        "name":"Noisli",
+        "category": "Productivity",
+        "url":"http://noisli.com"
+    },
+    {
+        "name":"Duolingo",
+        "category": "Resources",
+        "url":"https://duolingo.com"
+    },
+    {
+        "name":"PlayPhrase",
+        "category": "Entertainment",
+        "url":"https://playphrase.me"
+    },   
+    {
+        "name":"Exercism",
+        "category": "Resources",
+        "url":"https://exercism.org"
+    },
+    {
+        "name":"Learn-Anything",
+        "category": "Resources",
+        "url":"https://learn-anything.xyz"
+    },
+    {
+        "name":"FlowCV",
+        "category": "Tools",
+        "url":"https://flowcv.com"
+    },
+    {
+        "name":"Animated Drawings",
+        "category": "Tools",
+        "url":"https://sketch.metademolab.com/"
+    },
+    {
+        "name":"Genial",
+        "category": "Tools",
+        "url":"https://genial.ly/"
+    },
+    {
+        "name":"Open Cursor Library",
+        "category": "Customization",
+        "url":"http://www.rw-designer.com/cursor-library"
+    },
+    {
+        "name":"Plane Crash Info",
+        "category": "Informative",
+        "url":"http://www.planecrashinfo.com/"
+    },
+    {
+        "name":"My Fridge Food",
+        "category": "Food",
+        "url":"https://myfridgefood.com/"
+    },
+    {
+        "name":"Muscle Wiki",
+        "category": "Exercise",
+        "url":"https://musclewiki.com/"
+    },
+    {
+        "name":"Temp Mail",
+        "category": "Tools",
+        "url":"https://temp-mail.org/en/"
+    },
+    {
+        "name":"My 90's TV",
+        "category": "Entertainment",
+        "url":"https://my90stv.com/"
+    },
+    {
+        "name":"Eat This Much",
+        "category": "Food",
+        "url":"https://www.eatthismuch.com/"
+    },
+    {
+        "name":"Just Watch",
+        "category": "Entertainment",
+        "url":"https://www.justwatch.com/"
+    },
+    {
+        "name":"Worn on TV",
+        "category": "Clothes",
+        "url":"https://wornontv.net/"
+    },
+    {
+        "name":"Drive and Listen",
+        "category": "Productivity",
+        "url":"https://driveandlisten.herokuapp.com/"
+    },
+    {
+        "name":"Hotpot",
+        "category": "Tools",
+        "url":"https://hotpot.ai"
+    },
+    {
+        "name":"WiFi SPC",
+        "category": "Tools",
+        "url":"https://wifispc.com/"
+    },
+    {
+        "name":"Body Builder",
+        "category": "Entertainment",
+        "url":"https://bodyvisualizer.com/"
+    },
+    {
+        "name":"Make me a Cocktail",
+        "category": "Food",
+        "url":"https://makemeacocktail.com/"
+    },
+    {
+        "name":"Tune Find",
+        "category": "Entertainment",
+        "url":"https://www.tunefind.com/"
+    },
+    {
+        "name":"Retro Games",
+        "category": "Entertainment",
+        "url":"https://www.playretrogames.com/"
+    },
+    {
+        "name":"Plan your Room",
+        "category": "Customization",
+        "url":"http://www.planyourroom.com/"
+    },
+    {
+        "name":"AlternativeTo",
+        "category": "Productivity",
+        "url":"https://alternativeto.net/"
+    },
+    {
+        "name":"SMMRY",
+        "category": "Tools",
+        "url":"https://smmry.com/"
+    },
+    {
+        "name":"Amazon Style Snap",
+        "category": "Clothes",
+        "url":"https://www.amazon.com/stylesnap"
+    },
+    {
+        "name":"House Creep",
+        "category": "Informative",
+        "url":"https://www.housecreep.com/"
+    },
+    {
+        "name":"Inpaint",
+        "category": "Tools",
+        "url":"https://theinpaint.com/"
+    },
+    {
+        "name":"removebg",
+        "category": "Tools",
+        "url":"https://www.remove.bg/"
+    },
+    {
+        "name":"Will Robots take my job",
+        "category": "Informative",
+        "url":"https://willrobotstakemyjob.com/"
+    },
+    {
+        "name":"Retail Me Not",
+        "category": "Resources",
+        "url":"https://www.retailmenot.com/"
+    },
+    {
+        "name":"Foto Forensics",
+        "category": "Tools",
+        "url":"https://fotoforensics.com/"
+    },
+    {
+        "name":"Yummly",
+        "category": "Food",
+        "url":"https://www.yummly.com/"
+    },
+    {
+        "name":"City Protect",
+        "category": "Informative",
+        "url":"https://Cityprotect.com"
+    },
+    {
+        "name":"Cheatography",
+        "category": "Resources",
+        "url":"https://cheatography.com/"
+    },
+    {
+        "name":"WolframAlpha",
+        "category": "Resources",
+        "url":"https://www.wolframalpha.com/"
+    },
+    {
+        "name":"Explore.org",
+        "category": "Entertainment",
+        "url":"https://explore.org/livecams"
+    },
+    {
+        "name":"Lozo",
+        "category": "Resources",
+        "url":"https://lozo.com/"
+    },
+    {
+        "name":"FutureMe",
+        "category": "Tools",
+        "url":"https://www.futureme.org/"
+    },
+    {
+        "name":"Radiooooo",
+        "category": "Tools",
+        "url":"https://radiooooo.com/"
+    },
+    {
+        "name":"How normal am I?",
+        "category": "Entertainment",
+        "url":"https://www.hownormalami.eu/"
+    },
+    {
+        "name":"Fore Bears",
+        "category": "Informative",
+        "url":"https://forebears.io/"
+    },
+    {
+        "name":"Flight Radar",
+        "category": "Informative",
+        "url":"https://www.flightradar24.com/"
+    },
+    {
+        "name":"Emergency and Disaster Information Service",
+        "category": "Informative",
+        "url":"https://rsoe-edis.org/"
+    },
+    {
+        "name":"Marine Traffic",
+        "category": "Informative",
+        "url":"https://www.marinetraffic.com/"
+    },
+    {
+        "name":"AI Gahaku",
+        "category": "Tools",
+        "url":"https://ai-art.tokyo/en/"
+    },
+    {
+        "name":"Outrider",
+        "category": "Informative",
+        "url":"https://outrider.org/nuclear-weapons/interactive/bomb-blast/"
+    },
+    {
+        "name":"Low Earth Orbit Visualization",
+        "category": "Informative",
+        "url":"https://platform.leolabs.space/visualization"
+    },
+    {
+        "name":"Security.org",
+        "category": "Tools",
+        "url":"https://www.security.org/how-secure-is-my-password/"
+    },
+    {
+        "name":"Stellarium Web",
+        "category": "Informative",
+        "url":"https://stellarium-web.org/"
+    },
+    {
+        "name":"My Heritage",
+        "category": "Tools",
+        "url":"https://www.myheritage.com/deep-nostalgia"
+    },
+    {
+        "name":"Find a Grave",
+        "category": "Informative",
+        "url":"https://www.findagrave.com/"
+    },
+    {
+        "name":"Broadcastify",
+        "category": "Entertainment",
+        "url":"https://www.broadcastify.com/"
+    },
+    {
+        "name":"I Love PDF",
+        "category": "Tools",
+        "url":"https://www.ilovepdf.com/"
+    },
+    {
+        "name":"Dictation.io",
+        "category": "Tools",
+        "url":"https://dictation.io/"
+    },
+    {
+        "name":"Snap Drop",
+        "category": "Tools",
+        "url":"https://snapdrop.net/"
+    },
+    {
+        "name":"Rave DJ",
+        "category": "Entertainment",
+        "url":"https://rave.dj/"
+    },
+    {
+        "name":"Lightning Maps",
+        "category": "Informative",
+        "url":"https://www.lightningmaps.org/"
+    },
+    {
+        "name":"Tailor Nova",
+        "category": "Clothes",
+        "url":"https://tailornova.com/"
+    },
+    {
+        "name":"Gardena",
+        "category": "Customization",
+        "url":"https://my-garden.gardena.com/int"
+    },
+    {
+        "name":"Vocal Remover",
+        "category": "Tools",
+        "url":"https://vocalremover.com/"
+    },
+    {
+        "name":"Sleepy time",
+        "category": "Productivity",
+        "url":"https://sleepyti.me/"
+    },
+    {
+        "name":"Essay Typer",
+        "category": "Tools",
+        "url":"https://essaytyper.com/"
+    },
+    {
+        "name":"NVIDIA Inpainting",
+        "category": "Tools",
+        "url":"https://www.nvidia.com/research/inpainting/index.html"
+    },
+    {
+        "name":"Youtube Downloader",
+        "category": "Tools",
+        "url":"https://yt5s.com/en107"
+    },
+    {
+        "name":"Import Yeti",
+        "category": "Informative",
+        "url":"https://www.importyeti.com/"
+    },
+    {
+        "name":"Whichbook",
+        "category": "Resources",
+        "url":"https://whichbook.net/"
+    },
+    {
+        "name":"Agoodmovietowatch",
+        "category": "Entertainment",
+        "url":"https://agoodmovietowatch.com/"
+    },
+    {
+        "name":"Music-map",
+        "category": "Entertainment",
+        "url":"https://www.music-map.com/"
+    },
+    {
+        "name":"Desk-spacing",
+        "category": "Customization",
+        "url":"https://deskspacing.com/"
+    },
+    {
+        "name":"Review Meta",
+        "category": "Tools",
+        "url":"https://reviewmeta.com/"
+    },
+    {
+        "name":"Date Night Movies",
+        "category": "Entertainment",
+        "url":"https://datenightmovies.com/"
+    },
+    {
+        "name":"Reel good",
+        "category": "Entertainment",
+        "url":"https://reelgood.com/roulette/netflix"
+    },
+    {
+        "name":"Taste Atlas",
+        "category": "Food",
+        "url":"https://www.tasteatlas.com/"
+    },
+    {
+        "name":"What the Font",
+        "category": "Tools",
+        "url":"https://www.myfonts.com/pages/whatthefont"
+    },
+    {
+        "name":"Seat Guru",
+        "category": "Informative",
+        "url":"https://www.seatguru.com/"
+    },
+    {
+        "name":"Hemingwap App",
+        "category": "Tools",
+        "url":"https://hemingwayapp.com/"
+    },
+    {
+        "name":"Autum",
+        "category": "Entertainment",
+        "url":"https://autum.com/"
+    },
+    {
+        "name":"Hack the Menu",
+        "category": "Food",
+        "url":"http://hackthemenu.com/"
+    },
+    {
+        "name":"Who Sampled",
+        "category": "Informative",
+        "url":"https://www.whosampled.com/"
+    },
+    {
+        "name":"Namech_k",
+        "category": "Tools",
+        "url":"https://namechk.com/"
+    },
+    {
+        "name":"What the f*ck should I make for Dinner!!",
+        "category": "Food",
+        "url":"http://whatthefuckshouldimakefordinner.com/"
+    },
+    {
+        "name":"Open Payments",
+        "category": "Tools",
+        "url":"https://openpaymentsdata.cms.gov/"
+    },
+    {
+        "name":"Docsity",
+        "category": "Resources",
+        "url":"https://www.docsity.com/en/"
+    },
+    {
+        "name":"Uber duck",
+        "category": "Entertainment",
+        "url":"https://uberduck.ai/"
+    },
+    {
+        "name":"Terms of Service Didn't Read",
+        "category": "Tools",
+        "url":"https://www.tosdr.org/"
+    },
+    {
+        "name":"Corrupt a File",
+        "category": "Tools",
+        "url":"https://corrupt-a-file.net/"
+    },
+    {
+        "name":"Stain Solutions",
+        "category": "Clothes",
+        "url":"https://web.extension.illinois.edu/stain/"
+    },
+    {
+        "name":"Geo Guessr",
+        "category": "Entertainment",
+        "url":"https://www.geoguessr.com/"
+    },
+    {
+        "name":"Find the invisible Cow",
+        "category": "Entertainment",
+        "url":"https://findtheinvisiblecow.com/"
+    },
+    {
+        "name":"Pranx",
+        "category": "Entertainment",
+        "url":"https://pranx.com/hacker/"
+    },
+    {
+        "name":"Ocearch",
+        "category": "Informative",
+        "url":"https://www.ocearch.org/tracker/"
+    },
+    {
+        "name":"Virtual Vacation",
+        "category": "Entertainment",
+        "url":"https://virtualvacation.us/"
+    },
+    {
+        "name":"My 70s TV",
+        "category": "Entertainment",
+        "url":"https://www.my70stv.com/"
+    },
+    {
+        "name":"Window Swap",
+        "category": "Productivity",
+        "url":"https://www.window-swap.com/"
+    },
+    {
+        "name":"Quick Draw",
+        "category": "Tools",
+        "url":"https://quickdraw.withgoogle.com/"
+    },
+    {
+        "name":"The True Size",
+        "category": "Informative",
+        "url":"https://www.thetruesize.com/"
+    },
+    {
+        "name":"Frame Synthesis",
+        "category": "Entertainment",
+        "url":"https://framesynthesis.com/drivingsimulator/maps/"
+    },
+    {
+        "name":"2050 Earth",
+        "category": "Entertainment",
+        "url":"https://2050.earth/"
+    },
+    {
+        "name":"Sporcle",
+        "category": "Entertainment",
+        "url":"https://www.sporcle.com/"
+    },
+    {
+        "name":"Autodraw",
+        "category": "Tools",
+        "url":"https://www.autodraw.com/"
+    },
+    {
+        "name":"UFO Stalker",
+        "category": "Informative",
+        "url":"https://ufostalker.com/"
+    },
+    {
+        "name":"The office stare machine",
+        "category": "Entertainment",
+        "url":"http://theofficestaremachine.com/"
+    },
+    {
+        "name":"Classic Reload",
+        "category": "Entertainment",
+        "url":"https://classicreload.com/"
+    },
+    {
+        "name":"Crazy Card Trick",
+        "category": "Entertainment",
+        "url":"https://www.crazycardtrick.com/"
+    },
+    {
+        "name":"EmuOS",
+        "category": "Tools",
+        "url":"https://emupedia.net/beta/emuos/"
+    },
+    {
+        "name":"Yarn",
+        "category": "Entertainment",
+        "url":"https://yarn.co"
+    },
+    {
+        "name":"GeoFS",
+        "category": "Entertainment",
+        "url":"https://www.geo-fs.com/"
+    },
+    {
+        "name":"Geo Flight Simulator",
+        "category": "Entertainment",
+        "url":"https://www.geo-fs.com/"
+    },
+    {
+        "name":"Long Doge Challenge",
+        "category": "Entertainment",
+        "url":"https://longdogechallenge.com"
+    },
+    {
+        "name":"Pun in a Rug",
+        "category": "Entertainment",
+        "url":"https://pubinarug.com"
+    },
+    {
+        "name":"Destroy your browser history",
+        "category": "Entertainment",
+        "url":"https://heeeeeeeey.com"
+    },
+    {
+        "name":"Checkbox Olympics",
+        "category": "Entertainment",
+        "url":"https://checkboxolympics.com"
+    },
+    {
+        "name":"Radio Garden",
+        "category": "Entertainment",
+        "url":"http://radio.garden/"
+    },
+    {
+        "name":"Playback.fm",
+        "category": "Entertainment",
+        "url":"https://playback.fm/"
+    },
+    {
+        "name":"Jelly Mario",
+        "category": "Entertainment",
+        "url":"https://jellymar.io/"
+    },
+    {
+        "name":"Internet Arcade",
+        "category": "Entertainment",
+        "url":"https://archive.org/details/internetarcade"
+    },
+    {
+        "name":"10 Years Ago",
+        "category": "Entertainment",
+        "url":"https://neal.fun/ten-years-ago/"
+    },
+    {
+        "name":"The Deep Se",
+        "category": "Entertainment",
+        "url":"https://neal.fun/deep-sea/"
+    }
+]
